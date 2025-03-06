@@ -1,2 +1,3 @@
 features
 Feature content 2
+Feature content 3
